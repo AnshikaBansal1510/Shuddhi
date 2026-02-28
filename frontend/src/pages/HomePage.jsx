@@ -156,14 +156,14 @@ const HomePage = ({ onNavigate }) => {
               <img 
               src={hpage1Image} 
               alt="Person 1" 
-              className="h-70 w-auto object-contain shrink-0"
+              className="h-75 w-auto object-contain shrink-0"
             />
             </div>
             <div className="h-30 overflow-hidden">
               <img 
               src={hpage2Image} 
               alt="Person 2" 
-              className="h-70 w-auto object-contain shrink-0"
+              className="h-75 w-auto object-contain shrink-0"
             />
             </div>
           </div>
@@ -181,7 +181,7 @@ const HomePage = ({ onNavigate }) => {
                 <img 
                 src={hpage4Image} 
                 alt="Person 4" 
-                className="h-70 w-auto object-contain shrink-0"
+                className="h-75 w-auto object-contain shrink-0"
               />
               </div>            
           </div>
